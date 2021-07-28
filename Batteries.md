@@ -12,4 +12,4 @@ The volt guage on the guage cluster shows the charge of the starter battery.
 ![Starter battery indicator](/images/BatteryVoltage1.jpg)
 
 You can view the voltage of the house battery from the GPS/Fish finder unit.
-![Starter battery indicator](/images/BatteryVoltage2.jpg
+![Starter battery indicator](/images/BatteryVoltage2.jpg)
