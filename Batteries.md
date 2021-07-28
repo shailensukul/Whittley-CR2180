@@ -13,3 +13,6 @@ The volt guage on the guage cluster shows the charge of the starter battery.
 
 You can view the voltage of the house battery from the GPS/Fish finder unit.
 ![Starter battery indicator](/images/BatteryVoltage2.jpg)
+
+You can also install a cheap battery monitor which can relay battery statistics to your phone over Bluetooth.
+![Battery Monitor](/images/BatteryMonitor.jpg)
