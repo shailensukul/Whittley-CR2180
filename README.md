@@ -7,3 +7,6 @@ Optional add-ons:
 
 ## Battery
 [![Battery](/images/BatteryHeading.jpg)](/Batteries.md)
+
+## Owner's Manual
+[![Owner's Manual](/images/OwnersManualHeading.jpg)](/Whittley-Owners-Manual-CR2180.pdf)
