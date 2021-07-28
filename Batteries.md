@@ -19,6 +19,8 @@ The battery charger will charge the house battery first. When it is full, it wil
 
 ## Checking battery levels
 The volt guage on the guage cluster shows the charge of the starter battery.
+For a a 12 volt battery, a full charged should be around 13.8v
+
 ![Starter battery indicator](/images/BatteryVoltage1.jpg)
 
 You can view the voltage of the house battery from the GPS/Fish finder unit.
