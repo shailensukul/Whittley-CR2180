@@ -10,6 +10,7 @@ There is a black switch, called the battery combiner, located near the battery o
 If the starter battery is low on charge, the combiner will combine the charge from the starter and the house batteries.
 
 The battery panel also contains the 2 circuit breakers, including a 60 amp one for the winch.
+
 Be sure to turn the red switches to the off position when storing your boat.
 ![Battery Panel](/images/BatteryPanel.jpg)
 
