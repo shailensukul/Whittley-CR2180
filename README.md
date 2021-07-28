@@ -11,7 +11,7 @@ Optional add-ons:
 
 ### [Boat Checklist](/Boat-Checklist.md)
 
-### [Battery](//Batteries.md)
+### [Battery](/Batteries.md)
 
 ### [Owner's Manual](/Whittley-Owners-Manual-CR2180.pdf)
 
