@@ -1,12 +1,16 @@
 # Whittley-CR2180
+
+## About
 Notes about our Whittley 2180 SD boat
 
 Optional add-ons:
 - Electric Winch
 - L&R (Lock and Retrieve) latch
 
-## Battery
-[![Battery](/images/BatteryHeading.jpg)](/Batteries.md)
+## Contents
 
-## Owner's Manual
-[![Owner's Manual](/images/OwnersManualHeading.jpg)](/Whittley-Owners-Manual-CR2180.pdf)
+### [Boat Checklist](Boat-Checklist.md)
+
+### [Battery](/images/BatteryHeading.jpg)
+
+### [Owner's Manual](/images/OwnersManualHeading.jpg)

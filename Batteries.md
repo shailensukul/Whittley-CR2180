@@ -1,3 +1,4 @@
+[< Back](\README.md)
 # Batteries
 
 There are 2 batteries in the Whittley CR 2180:
@@ -12,7 +13,7 @@ If the starter battery is low on charge, the combiner will combine the charge fr
 The battery panel also contains the 2 circuit breakers, including a 60 amp one for the winch.
 
 Be sure to turn the red switches to the off position when storing your boat.
-![Battery Panel](/images/BatteryPanel.jpg)
+![Battery Panel](/images/fa/regular/BatteryPanel.jpg)
 
 ## Battery charger
 The battery charger will charge the house battery first. When it is full, it will switch over to charge the starter battery.
