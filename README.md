@@ -14,3 +14,5 @@ Optional add-ons:
 ### [Battery](/images/BatteryHeading.jpg)
 
 ### [Owner's Manual](/images/OwnersManualHeading.jpg)
+
+Disclaimer: Please use these notes at your own risk. No responsibility will be taken.
