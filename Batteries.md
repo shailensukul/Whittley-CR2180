@@ -1,4 +1,4 @@
-[< Back](\README.md)
+[< Back](/README.md)
 # Batteries
 
 There are 2 batteries in the Whittley CR 2180:
