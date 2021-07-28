@@ -33,6 +33,8 @@
 
 -   Is the engine trimmed up?
 
+-   Do you have enough life jackets for all your passengers and of the correct type?
+
 # Launching Boat
 
 -   Drive trailer back till the top flap of the back wheel is just above water
@@ -45,7 +47,7 @@
 
 -   Turn battery switches to ON position
 
--   Turn on blower for 10 seconds
+-   Turn on blower for 5 minutes
 
 -   Trim the engine down till at two thirds up
 
