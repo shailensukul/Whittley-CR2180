@@ -1,4 +1,4 @@
-[< Back](\)
+[< Back](\README.md)
 # Leaving House
 
 -   Check the weather. In particular, wind speed (< 10km/h is ideal and swell)
