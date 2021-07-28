@@ -9,10 +9,10 @@ Optional add-ons:
 
 ## Contents
 
-### [Boat Checklist](Boat-Checklist.md)
+### [Boat Checklist](/Boat-Checklist.md)
 
-### [Battery](/images/BatteryHeading.jpg)
+### [Battery](//Batteries.md)
 
-### [Owner's Manual](/images/OwnersManualHeading.jpg)
+### [Owner's Manual](/Whittley-Owners-Manual-CR2180.pdf)
 
 Disclaimer: Please use these notes at your own risk. No responsibility will be taken.
