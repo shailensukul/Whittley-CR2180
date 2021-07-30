@@ -5,7 +5,7 @@
 Our boat came with a 2021 Mackay dual axel trailer with progressive or intertia-based braking.
 We have it hitched to a Toyota Lancruiser Prado.  
 
-Initially, I was concerned about inertia-based breaking, as the feedback is slighltly delayed.
+Initially, I was concerned about inertia-based breaking, since the feedback is slighltly delayed.
 However, with some precautions, I am satisfied that towing can be safe:
 
 * Be vigilant while driving and do not break suddenly.
