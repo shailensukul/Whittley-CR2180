@@ -13,6 +13,8 @@ Optional add-ons:
 
 ### [Battery](/Batteries.md)
 
+### [Trailer Maintenance](/TrailerMaintenance.md)
+
 ### [Owner's Manual](/Whittley-Owners-Manual-CR2180.pdf)
 
 Disclaimer: Please use these notes at your own risk. No responsibility will be taken.
