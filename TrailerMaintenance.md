@@ -18,6 +18,14 @@ If the image in one mirror appears larger than the other mirror, then steer towa
 
 ## Tips
 
+* Always wash of the trailer with a good wash (I use Salt Away) and spray the brake calipers, springs and brake discs with Innox.
+
+![Salt Away Attachment](/images/SaltAwayAttachment.jpg)
+![Salt Away Attachment](/images/SaltAway.jpg)
+
+* At a minimum, annually check your bearings (and change and or re grease) and brake pads, and optionally, change the brake fluid also.
+(You may want to look into Bearing Buddy, but I prefer not to)
+
 * Purchase a spare tyre wrench and keep it in the boat. When travelling over long distances, 
 the nuts will come loose due to vibratation and it is a good idea to stop every hour and check and tighten them.
 
@@ -37,6 +45,6 @@ If you are running low on tyre pressure and are in the middle of nowhere, this d
 
 ![Wheel Chocks](/images/WheelChocks.JPG)
 
-* Get a trailer lock as a safety precaution when parking your trailer in public places.
+* Get a towbar lock as a safety precaution when parking your trailer in public places.
 
 ![Trailer Lock](/images/TrailerLock.JPG)
