@@ -28,7 +28,7 @@ If the image in one mirror appears larger than the other mirror, then steer towa
 
 * Purchase a spare tyre wrench and keep it in the boat. When travelling over long distances, the nuts will may loose due to vibratation and it is a good idea to stop and check and optionally, tighten them, when you make your pit stops.
 
-![Tyre Wrench](/images/TyreWrench.JPG)
+<img src="/images/TyreWrench.JPG" width=100px; height=100px />
 
 * Purchase a scissor jack and keep it in the boat. Most modern cars come with a pneumatic jacks, which will collapse under the weight. 
 
