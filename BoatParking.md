@@ -43,7 +43,7 @@ But after breaking several drill bits, I decided to call in an expert.
 The trailer is Australian made and typically overengineered, which is not a bad thing.
 The professionals turned up and also had a little difficulty at first, but managed to complete the job in an hour.
 
-In the end, I had perfectly drilled holes to mount ther Jockey wheel bracket.
+In the end, I had perfectly drilled holes to mount the Jockey wheel bracket.
 
 <img src="/images/Parking-BracketView-1.jpg" width="400px;" />
 
