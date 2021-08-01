@@ -54,7 +54,9 @@ In the end, I had perfectly aligned holes to mount the Jockey wheel bracket.
 Make sure that the bracket it nice and tight, and then you can install the Jockey wheel.
 
 When fitting the Jockey pole to the bracket, again **make sure that it is nice and tight**
+
 Then connect the guiding handle to the pole.
+
 I then raise my jockey wheel up but still leave the other wheel on to catch it if it slips (which it has due to not tightening enough).
 
 
