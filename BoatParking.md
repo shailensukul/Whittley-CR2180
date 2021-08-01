@@ -4,7 +4,7 @@
 I have a wide driveway, and got the CR2180 model because I could park it on one side of the driveway and still be able to move cars and park them without 
 too much of a hassle. 
 
-In order to do that, I needed a way to unhitch my boat trailer, parking my car and manouvering the trailer/boat until it was really close to the side fence.
+In order to do that, I needed a way to unhitch my boat trailer, park my car and manouver the trailer/boat, until it was really close to the side fence.
 
 I started my research into a boat mover or motorized Jockey wheel, but information on this is really hard to come by.
 
