@@ -1,5 +1,5 @@
 [< Back](/README.md)
-# Boat Parking
+# Boat Trailer Parking
 
 I have a wide driveway, and got the CR2180 model because I could park it on one side of the driveway and still be able to move cars and park them without 
 too much of a hassle. 
