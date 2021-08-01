@@ -37,7 +37,7 @@ When travelling over long distances, the nuts will may loosen due to vibratation
 <img src="/images/ScissorJack.JPG" width="400px;" />
 
 * Purchase a mobile tyre inflator. I got the Ozito PXC 18V 240V Hybrid Inflator, which works off 18V DC or 240V AC.
-Great for charging our regulat tyres as well! 
+Great for charging our regular tyres as well! 
 
 If you are running low on tyre pressure and are in the middle of nowhere, this device can come in very handy!
 
