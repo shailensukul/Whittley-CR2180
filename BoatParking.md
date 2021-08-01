@@ -1,7 +1,7 @@
 [< Back](/README.md)
 # Boat Parking
 
-I have a wide and long driveway, and got the CR2180 model because I could park it on one side of the driveway and still be able to move cars and park them without 
+I have a wide driveway, and got the CR2180 model because I could park it on one side of the driveway and still be able to move cars and park them without 
 too much of a hassle. 
 
 In order to do this, I required a way for unhitching my boat, parking my car and manouvering the trailer/boat until it was really close to the side fence.
