@@ -17,6 +17,7 @@ I narrowed down my selections to 2 kinds of electric Jockey wheels:
 * A 550 watt model
 
 Based on the weight of my boat, I settled on the 550 watt model.
+
 I only have a 3 degree incline on an aggregate driveway, and so I was confident that it would work.
 
 <img src="/images/KlikaGen2MiniMover.JPG" width="400px;" />
@@ -27,8 +28,8 @@ I bought this model  online and drove to pick it up from Braeside:
 
 [Klika Gen 2 Mini Mover 550W](https://www.klika.com.au/gen2-mini-mover-12v-550w-electric-motorised-jockey-wheel-black.html)
 
-
 They also ship it, but I could not wait, as we had taken delivery of the boat.
+
 I had an existing `90 AH Kayak deep cycle battery`, which I was planning to use with this, but any 12V battery should do, though I would recommend a deep cycle battery.
 
 ## Installing
