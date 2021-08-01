@@ -64,8 +64,8 @@ I then raise my jockey wheel up but still leave the other wheel on to catch it i
 
 ## Moving
 
-It will not turn on a dime due to the 4 wheels at the back of the trailer, so you'll have to make lots of 3 points turns.
+It will NOT turn on a dime due to the 4 wheels at the back of the trailer, so you'll have to make lots of 3 points turns.
 
-However, with a little practice, I can comfortable park it close to the fence.
+However, with a little practice, I can comfortably park it close to the fence.
 
 <img src="/images/Parking-DrivewayView.jpg" width="400px;" />
