@@ -19,8 +19,6 @@ I narrowed down my selections to 2 kinds of electric Jockey wheels:
 Based on the weight of my boat, I settled on the 550 watt model.
 I only have a 3 degree incline on an aggregate driveway, and so I was confident that it would work.
 
-<img src="/images/KlikaGen2MiniMover.JPG" width="400px;" />
-
 I bought this model  online and drove to pick it up from Braeside:
 
 **Klika Gen 2 Mini Mover 550W**
@@ -62,3 +60,5 @@ I then raise my jockey wheel up but still leave the other wheel on to catch it i
 It will not turn on a dime due to the 4 wheels at the back of the trailer, so you'll have to make lots of 3 points turns.
 
 However, with a little practice, I can comfortable park it close to the fence.
+
+<img src="/images/KlikaGen2MiniMover.JPG" width="400px;" />
