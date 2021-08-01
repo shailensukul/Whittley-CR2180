@@ -45,6 +45,8 @@ The professionals turned up and also had a little difficulty at first, but manag
 
 In the end, I had perfectly aligned holes to mount the Jockey wheel bracket.
 
+(Note: The installer had to slightly trim the bottom left end, near the chain link to make it fit)
+
 <img src="/images/Parking-BracketView-1.jpg" width="400px;" />
 
 <img src="/images/Parking-BracketView-2.jpg" width="400px;" />
