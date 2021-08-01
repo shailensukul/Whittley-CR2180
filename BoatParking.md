@@ -6,8 +6,9 @@ too much of a hassle.
 
 In order to do that, I needed a way for unhitching my boat trailer, parking my car and manouvering the trailer/boat until it was really close to the side fence.
 
-And so I started my research into a boat mover or motorized Jockey wheel, but information on this is really hard to come by.
-If you are a professional boat company, sure you can go ahead and get a > $3000 mover but that was too expensive for me.
+I started my research into a boat mover or motorized Jockey wheel, but information on this is really hard to come by.
+
+Now, if you are a professional boat company, sure you can go ahead and get a > $3000 mover but that was too expensive for me.
 
 My biggest difficulty was that the smaller, cheaper movers all come with a disclaimer: `Not for dual axel trailers`.
 
