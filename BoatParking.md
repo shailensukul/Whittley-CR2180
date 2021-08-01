@@ -17,7 +17,7 @@ I narrowed down my selections to 2 kinds of electric Jockey wheels:
 * A 550 watt model
 
 Based on the weight of my boat, I settled on the 550 watt model.
-I also have only a 3 degree incline on an aggregate driveway, and so I was confident that it would work.
+I only have a 3 degree incline on an aggregate driveway, and so I was confident that it would work.
 
 <img src="/images/KlikaGen2MiniMover.JPG" width="400px;" />
 
