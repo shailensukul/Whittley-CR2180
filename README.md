@@ -15,7 +15,7 @@ Optional add-ons:
 
 ### [Trailer Maintenance](/TrailerMaintenance.md)
 
-### [Parking Your Boat](/BoatParking.md)
+### [Parking Your Boat Trailer](/BoatParking.md)
 
 ### [Owner's Manual](/Whittley-Owners-Manual-CR2180.pdf)
 
